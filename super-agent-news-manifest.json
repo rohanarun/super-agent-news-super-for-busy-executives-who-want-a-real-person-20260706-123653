@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini computer use for AI agents",
+      "url": "https://memeburn.com"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today?",
+      "url": "https://news.mit.edu"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in open-source AI agents",
+      "url": "https://www.scmagazine.com"
+    },
+    {
+      "source": "Let's Data Science",
+      "title": "Specialized AI Tools Boost Productivity Stacks in 2026",
+      "url": "https://letsdatascience.com"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title + niche_landing + executives + generated_at; selected architecture = workflow-command-center. AIDA Check: Hero (Attention), Proof & Market Context (Interest), Workflow Media & Guide (Desire), CTA Band (Action). Font Selection: Cabinet Grotesk only. Hero Math Verification: max-width 1100px, clamp-based font sizing ensures 2\u20133 lines on desktop. Bento Density Verification: grid-auto-flow:dense used in workflow and comparison grids. GSAP Motion Selection: image-scale-fade-scroll + hover-physics, guarded if GSAP unavailable. Label Sweep & Button Check: all CTAs black pill primary, white secondary, contrast verified against #0a0a0a ink and #f7f5ef paper.",
+  "generated_at": "2026-07-06T12:37:00.172274+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A premium niche landing page for busy executives who need a real personal AI assistant that can operate computers, reuse a computer-use cache, and handle repeated executive workflows reliably. Includes a deep, role-specific field guide, structured data, and a polished Super landing visual system."
+}
